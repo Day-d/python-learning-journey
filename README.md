@@ -1,6 +1,34 @@
-# Python 101: Number Guessing Game
+#  Python Learning Journey & Portfolio
 
-This directory contains my Jupyter Notebook implementation for the Coursera Guided Project **"Python 101: Develop Your First Python Program"**.
+Welcome to my Python repository! This space serves as a continuous record of my practical coding journey, containing my completed **Coursera Guided Projects** as well as my independent **Python Mini Projects**.
 
-* 📓 **Main Code & Output:** View [Develop-Your-First-Python-Project.ipynb](./Develop-Your-First-Python-Project.ipynb)
-* 🔗 **Course Link:** [Coursera Guided Project](https://www.coursera.org/learn/python101-develop-your-first-python-code/home/welcome)
+---
+
+## Table of Contents
+- [Coursera Guided Projects](#-coursera-guided-projects)
+- [Python Mini Projects](#-python-mini-projects)
+- [Tech Stack & Tools](#-tech-stack--tools)
+
+---
+
+## 🎓 Coursera Guided Projects
+
+| Project Name | Key Skills Covered | View Code |
+| :--- | :--- | :--- |
+| **Python 101: Number Guessing Game** | Control Flow, Logic, User Input, Functions | [View Project](./01-coursera-guided-projects/01-python-101-number-guessing/) |
+
+---
+
+## Python Mini Projects
+
+| Project Name | Description | Status | View Code |
+| :--- | :--- | :--- | :--- |
+| *Simple Calculator* | *Basic math operations & input handling* | Planned | *Coming Soon* |
+| *Weather App* | *API integration & JSON parsing* | Planned | *Coming Soon* |
+
+---
+
+## Tech Stack & Tools
+* **Language:** Python 3.x
+* **Environments:** Jupyter Notebook, VS Code, Anaconda
+* **Version Control:** Git & GitHub
