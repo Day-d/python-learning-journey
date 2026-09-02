@@ -16,7 +16,7 @@ Welcome to my Python repository! This space serves as a continuous record of my 
 | Project Name | Key Skills Covered | View Code |
 | :--- | :--- | :--- |
 | **Python 101: Number Guessing Game** | Control Flow, Logic, User Input, Functions | [View Project](./01-coursera-guided-projects/01-python-101-number-guessing/) |
-| **Python for Data Analysis: NumPy & Pandas Fundamentals** | Multidimensional Arrays, DataFrames, Slicing, Conditional Selection, HTML Parsing, Aggregations | [View Project](./01-coursera-guided-projects/02-python-for-data-analysis-pandas-numpy/) |
+| **Python for Data Analysis: NumPy & Pandas Fundamentals** | Multidimensional Arrays, DataFrames, Slicing, Conditional Selection, HTML Parsing, Aggregations | [View Project](./01-coursera-guided-projects/01-python-101-number-guessing/02-numpy-pandas-fundamentals/) |
 
 ---
 
